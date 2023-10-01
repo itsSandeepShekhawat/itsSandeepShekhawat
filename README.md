@@ -1,4 +1,4 @@
-[![MasterHead](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)](www.linkedin.com/in/sandeepsinghshekhawat)
+[![MasterHead](https://www.wallpaperflare.com/static/543/71/660/laptop-work-coffee-technology-wallpaper.jpg)](www.linkedin.com/in/sandeepsinghshekhawat)
 
 <h1 align="center">Hi 👋, I'm Sandeep Shekhawat</h1>
 <h3 align="center">A passionate Python developer|web developer from India</h3>
